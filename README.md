@@ -42,7 +42,7 @@ Steam invites, Steam join codes, LAN codes, and direct addresses are implemented
 
 Version 0.20.2 is protocol-compatible with 0.20.1; update every player to receive all local-screen fixes. See the [complete version history and guide](package/QueensDomainCoop-0.20.2/README.md).
 
-## English gallery
+# English gallery
 
 Promotional artwork supplied by the project team. These images present the mod's features; consult the guide above for current behavior and testing limitations.
 
