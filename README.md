@@ -4,9 +4,7 @@
 
 Explore Queen's Domain together with up to three friends. Choose your knight, share the host's world, revive your allies, trade items, and rest as a party.
 
-**[Download v0.20.2](https://github.com/MIZO-GAKI/QueensDomainCoop/releases/download/v0.20.2/QueensDomainCoop-0.20.2.zip)** · **[Release notes](https://github.com/MIZO-GAKI/QueensDomainCoop/releases/tag/v0.20.2)** · **[Full guide](package/QueensDomainCoop-0.20.2/README.md)** · **[Report an issue](https://github.com/MIZO-GAKI/QueensDomainCoop/issues)**
-
-## Features
+**[Download](https://github.com/MIZO-GAKI/QueensDomainCoop/releases/download/v0.20.2/QueensDomainCoop-0.21.0.zip)** ·
 
 - Co-op for 1–4 players in the host's world.
 - Eight knight appearances, party health bars, teammate markers, and pings.
