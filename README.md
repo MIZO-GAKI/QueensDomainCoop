@@ -20,13 +20,13 @@ Explore Queen's Domain together with up to three friends. Choose your knight, sh
 
 Requires the Windows Steam version of Queen's Domain. Every player needs the game and the mod. The supplied documentation lists game versions 1.01.03, 1.01.05, 1.01.06a, and 1.01.07 as tested, with this mod version tested on the last two.
 
-1. Download **QueensDomainCoop-0.20.2.zip** from the release assets.
+1. Download **QueensDomainCoop** from the release assets.
 2. Close the game and extract the ZIP somewhere **outside the game folder**.
-3. Run **Install.cmd**. It detects the game in your Steam libraries.
+3. Copy the file to game folder.
 4. Launch the game through Steam and select **Co-op** from the title screen.
 5. Host a campaign or join a friend. Use **F8** or hold **View / Select** to open the in-game co-op menu.
 
-Install the same mod version for everyone in the party. Save at a checkpoint before leaving: ending a session does not itself save progress. Run **Uninstall.cmd** to remove the mod.
+Install the same mod version for everyone in the party. Save at a checkpoint before leaving: ending a session does not itself save progress.
 
 ### Connection and testing status
 
